@@ -62,8 +62,8 @@ ESP32 använder FreeRTOS; tasks ger ren separation och förutsägbar timing.
 Förbättringsförslag
 
 1. NTP – synka klocka över WiFi så jämna/ojämna minuter motsvarar verklig tid.
-2. SPIFFS/LittleFS** – lagra kunder och texter i fil istället för i källkod.
-3. Webbgränssnitt** – enkel konfiguration via HTTP på ESP32.
-4. Energi** – deep sleep mellan visningar vid batteridrift.
-5. Felhantering** – robust hantering av tomma listor och displayfel.
+2. SPIFFS/LittleFS – lagra kunder och texter i fil istället för i källkod.
+3. Webbgränssnitt – enkel konfiguration via HTTP på ESP32.
+4. Energi – deep sleep mellan visningar vid batteridrift.
+5. Felhantering – robust hantering av tomma listor och displayfel.
 
