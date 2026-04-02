@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# PlatformIO / ESP32 (undermapp reklamtavlan)
+.pio/
+.vscode/
+**/build/
+*.elf
+*.bin
+.DS_Store
+*.swp
+*.swo
+*~

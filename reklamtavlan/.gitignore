@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+build/
+*.o
+*.d
+*.elf
+*.bin
+.DS_Store
+*.swp
+*.swo
+*~
